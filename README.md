@@ -1,5 +1,6 @@
 # JumpHelper
 微信跳一跳游戏辅助
+![例图](http://ww4.sinaimg.cn/large/0060lm7Tly1fnn4ng3p98j30u01hcab9.jpg)
 <h3>思路</h3>
 1.获取需要跳跃的距离；
   通过WindowManager发送一个悬浮窗到“跳一跳游戏”的上面，然后手指点击起点和终点，计算出距离<br>
